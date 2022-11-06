@@ -1,0 +1,5 @@
+C:\Users\Ayodele.Babafemi\source\repos\Rehub_v1.0\Rehub_v1.0.Models\obj\Debug\net6.0\Rehub_v1.0.Models.csproj.AssemblyReference.cache
+C:\Users\Ayodele.Babafemi\source\repos\Rehub_v1.0\Rehub_v1.0.Models\obj\Debug\net6.0\Rehub_v1.0.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayodele.Babafemi\source\repos\Rehub_v1.0\Rehub_v1.0.Models\obj\Debug\net6.0\Rehub_v1.0.Models.AssemblyInfoInputs.cache
+C:\Users\Ayodele.Babafemi\source\repos\Rehub_v1.0\Rehub_v1.0.Models\obj\Debug\net6.0\Rehub_v1.0.Models.AssemblyInfo.cs
+C:\Users\Ayodele.Babafemi\source\repos\Rehub_v1.0\Rehub_v1.0.Models\obj\Debug\net6.0\Rehub_v1.0.Models.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\Ayodele.Babafemi\source\repos\Rehub_v1.0\Rehub_v1.0.Utility\bin\Debug\net6.0\Rehub_v1.0.Utility.deps.json
+C:\Users\Ayodele.Babafemi\source\repos\Rehub_v1.0\Rehub_v1.0.Utility\bin\Debug\net6.0\Rehub_v1.0.Utility.dll
+C:\Users\Ayodele.Babafemi\source\repos\Rehub_v1.0\Rehub_v1.0.Utility\bin\Debug\net6.0\Rehub_v1.0.Utility.pdb
+C:\Users\Ayodele.Babafemi\source\repos\Rehub_v1.0\Rehub_v1.0.Utility\obj\Debug\net6.0\Rehub_v1.0.Utility.csproj.AssemblyReference.cache
+C:\Users\Ayodele.Babafemi\source\repos\Rehub_v1.0\Rehub_v1.0.Utility\obj\Debug\net6.0\Rehub_v1.0.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayodele.Babafemi\source\repos\Rehub_v1.0\Rehub_v1.0.Utility\obj\Debug\net6.0\Rehub_v1.0.Utility.AssemblyInfoInputs.cache
+C:\Users\Ayodele.Babafemi\source\repos\Rehub_v1.0\Rehub_v1.0.Utility\obj\Debug\net6.0\Rehub_v1.0.Utility.AssemblyInfo.cs
+C:\Users\Ayodele.Babafemi\source\repos\Rehub_v1.0\Rehub_v1.0.Utility\obj\Debug\net6.0\Rehub_v1.0.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Ayodele.Babafemi\source\repos\Rehub_v1.0\Rehub_v1.0.Utility\obj\Debug\net6.0\Rehub_v1.0.Utility.dll
+C:\Users\Ayodele.Babafemi\source\repos\Rehub_v1.0\Rehub_v1.0.Utility\obj\Debug\net6.0\refint\Rehub_v1.0.Utility.dll
+C:\Users\Ayodele.Babafemi\source\repos\Rehub_v1.0\Rehub_v1.0.Utility\obj\Debug\net6.0\Rehub_v1.0.Utility.pdb
+C:\Users\Ayodele.Babafemi\source\repos\Rehub_v1.0\Rehub_v1.0.Utility\obj\Debug\net6.0\ref\Rehub_v1.0.Utility.dll

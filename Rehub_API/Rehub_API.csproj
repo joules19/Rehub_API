@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.IdentityModel.JsonWebTokens" Version="6.24.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="RestSharp" Version="108.0.2" />
+    <PackageReference Include="Stripe.net" Version="39.123.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Rehub.DataAccess\Rehub.DataAccess.csproj" />
+		<ProjectReference Include="..\Rehub.Models\Rehub.Models.csproj" />
+		<ProjectReference Include="..\Rehub.Utility\Rehub.Utility.csproj" />
+	</ItemGroup>
+
+</Project>
